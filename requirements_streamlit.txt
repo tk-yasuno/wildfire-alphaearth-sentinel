@@ -1,0 +1,23 @@
+# Streamlit火災検知ダッシュボード用の依存関係
+
+# Core Streamlit
+streamlit>=1.28.0
+streamlit-folium>=0.15.0
+
+# Map visualization
+folium>=0.14.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Plotting and visualization
+plotly>=5.15.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Scientific computing
+scipy>=1.10.0
+
+# Utilities
+requests>=2.31.0
